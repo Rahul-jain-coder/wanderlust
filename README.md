@@ -36,7 +36,7 @@ Git & GitHub
 
 
 📂 Project Structure
-
+```text
 WANDERLUST
 │
 ├── controllers/        # Route logic and controller functions
@@ -58,7 +58,7 @@ WANDERLUST
 ├── package.json        # Project dependencies and scripts
 ├── package-lock.json   # Dependency lock file
 └── README.md           # Project documentation
-
+```
 
 ⚙️ Installation
 
