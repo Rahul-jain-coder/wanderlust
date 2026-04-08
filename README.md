@@ -42,20 +42,22 @@ WANDERLUST
 ├── controllers/        # Route logic and controller functions
 ├── init/               # Database initialization / seed data
 ├── models/             # Mongoose models
-├── node_modules/       # Installed dependencies
 ├── public/             # Static assets (CSS, JS, images)
 ├── routes/             # Express route files
 ├── utils/              # Utility functions and helpers
-├── views/              # EJS templates for frontend
+├── views/              # EJS templates (frontend)
 │
 ├── .env                # Environment variables (not pushed to GitHub)
 ├── .gitignore          # Git ignored files
+│
 ├── app.js              # Main Express application entry point
 ├── cloudConfig.js      # Cloudinary configuration
 ├── middleware.js       # Custom middleware functions
 ├── schema.js           # Joi validation schemas
+│
 ├── package.json        # Project dependencies and scripts
 ├── package-lock.json   # Dependency lock file
+└── README.md           # Project documentation
 
 
 ⚙️ Installation
@@ -63,7 +65,7 @@ WANDERLUST
 Follow these steps to run the project locally.
 
 1️⃣ Clone the repository
-git clone https://github.com/yourusername/wanderlust.git
+git clone https://github.com/Rahul-jain-coder/wanderlust.git
 
 2️⃣ Navigate to the project folder
 cd wanderlust
